@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/alain_green_photography/precache-manifest.c051020aeb63fab8329bdf6ea91a596e.js"
+  "/alain_green_photography/precache-manifest.be4ff7d4db845ea9595320fb0f821a6a.js"
 );
 
 self.addEventListener('message', (event) => {

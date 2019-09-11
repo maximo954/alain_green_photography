@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "38ada957d54815e2dd8b08d5de3f887f",
+    "revision": "9efc331c4c3fd2b06ad988a2d93fb692",
     "url": "/alain_green_photography/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/alain_green_photography/static/css/2.5decf86f.chunk.css"
   },
   {
-    "revision": "96c3f17a71cb6c5ff908",
+    "revision": "380e7e242a793e1d6bf5",
     "url": "/alain_green_photography/static/css/main.6837cb9d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/alain_green_photography/static/js/2.f64756dd.chunk.js"
   },
   {
-    "revision": "96c3f17a71cb6c5ff908",
-    "url": "/alain_green_photography/static/js/main.75abb2de.chunk.js"
+    "revision": "380e7e242a793e1d6bf5",
+    "url": "/alain_green_photography/static/js/main.2d5c704c.chunk.js"
   },
   {
     "revision": "2223bb68597378102f9a",
