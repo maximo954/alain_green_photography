@@ -1,7 +1,7 @@
 {
   "name": "alain_green_photography",
   "version": "0.1.0",
-  "homepage": "http://maximo954.github.io/Alain-Green-Photography",
+  "homepage": "https://maximo954.github.io/alain_green_photography/",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.1.1",

@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/alain_green_photography/static/css/main.6837cb9d.chunk.css",
+    "main.js": "/alain_green_photography/static/js/main.75abb2de.chunk.js",
+    "main.js.map": "/alain_green_photography/static/js/main.75abb2de.chunk.js.map",
+    "runtime~main.js": "/alain_green_photography/static/js/runtime~main.6cd60084.js",
+    "runtime~main.js.map": "/alain_green_photography/static/js/runtime~main.6cd60084.js.map",
+    "static/css/2.5decf86f.chunk.css": "/alain_green_photography/static/css/2.5decf86f.chunk.css",
+    "static/js/2.f64756dd.chunk.js": "/alain_green_photography/static/js/2.f64756dd.chunk.js",
+    "static/js/2.f64756dd.chunk.js.map": "/alain_green_photography/static/js/2.f64756dd.chunk.js.map",
+    "index.html": "/alain_green_photography/index.html",
+    "precache-manifest.c051020aeb63fab8329bdf6ea91a596e.js": "/alain_green_photography/precache-manifest.c051020aeb63fab8329bdf6ea91a596e.js",
+    "service-worker.js": "/alain_green_photography/service-worker.js",
+    "static/css/2.5decf86f.chunk.css.map": "/alain_green_photography/static/css/2.5decf86f.chunk.css.map",
+    "static/css/main.6837cb9d.chunk.css.map": "/alain_green_photography/static/css/main.6837cb9d.chunk.css.map",
+    "static/media/semantic.min.css": "/alain_green_photography/static/media/outline-icons.ef60a4f6.woff"
+  }
+}
